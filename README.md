@@ -5,6 +5,7 @@ Repositório para aprendizado
 Olá! 👋 Sou o Rafael!
 
 🚀 Tecnologias que estou aprendendo:
+
 Python 🐍
 
 HTML & CSS 🌐
