@@ -4,6 +4,11 @@ Repositório para aprendizado
 
 Olá! 👋 Sou o Rafael!
 
+🚀 Tecnologias que estou aprendendo:
+Python 🐍
+HTML & CSS 🌐
+Banco de Dados 🗄️
+
 # Projetos Acadêmicos e Pessoais
 
 Este repositório contém uma coleção de **projetos acadêmicos** e **pessoais** desenvolvidos ao longo da minha jornada como estudante e profissional. O objetivo principal é construir um **perfil profissional robusto**, demonstrando minhas habilidades técnicas e de resolução de problemas, além de mostrar o processo de desenvolvimento de software com as **melhores práticas de versionamento**, **colaboração** e **compartilhamento de código**.
