@@ -1,5 +1,7 @@
 BC-CEUB
+
 Repositório para aprendizado
+
 Olá! 👋 Sou o Rafael!
 
 # Projetos Acadêmicos e Pessoais
