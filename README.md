@@ -6,7 +6,9 @@ Olá! 👋 Sou o Rafael!
 
 🚀 Tecnologias que estou aprendendo:
 Python 🐍
+
 HTML & CSS 🌐
+
 Banco de Dados 🗄️
 
 # Projetos Acadêmicos e Pessoais
